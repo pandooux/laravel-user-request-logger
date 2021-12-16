@@ -1,0 +1,19 @@
+{
+    "name": "pandoux/laravel-user-request-logger",
+    "description": "Log every request send by authenticated user",
+    "type": "library",
+    "license": "Apache2.0",
+    "autoload": {
+        "psr-4": {
+            "Pandoux\\LaravelUserRequestLogger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pandoux",
+            "email": "nicolas.gaillard@viacesi.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
